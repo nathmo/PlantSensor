@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/nathann/OneDrive/Documents/Projet/electronic/PlantSensor/PlantSensor/PlantSensor.kicad_sch</source>
+    <date>lun 13 jun 2022 01:12:29</date>
+    <tool>Eeschema 6.0.2+dfsg-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PlantSensor.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BZ1">
+      <value>Buzzer</value>
+      <footprint>Buzzer_Beeper:Buzzer_12x9.5RM7.6</footprint>
+      <libsource lib="Device" part="Buzzer" description="Buzzer, polarized"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f1e78a4-3de5-4e30-b6a3-6e99c2e512db</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5536ad91-3ced-4ed4-b5e0-eb027385ddde</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7068e86-6312-4342-aa63-c1b7ad68015f</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19991cde-5872-4534-b621-6cbf04dc9f4c</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51472de1-43c9-4594-a8fb-97044f317ef2</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b384d20-b266-44de-9437-85d5284948bf</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77f6bc73-c8b3-4907-8755-da5be3e713b2</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0d81467-d916-4102-bf8d-e6861eea610b</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0cbafa5-aa18-45c9-9bd6-a429e408e7fd</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a207056-4129-4127-ab8f-d2190667ca62</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b11385b-2f72-4d51-b5f3-f20a7fd063d6</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>132b0b41-e95a-46c8-86fd-6310625310b6</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bba77610-9f4b-4a83-84ee-37f717875024</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4b2f441-8da7-401c-85b5-fd782677fb18</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8dba334-c4b5-49d5-9dd9-5c8ff34fe3e6</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>SCREW-TERMINAL-GREEN_2P-5.0_</value>
+      <footprint>OPL_Connector:H2-5.0-10.5X8.0MM</footprint>
+      <fields>
+        <field name="SKU">320110031</field>
+      </fields>
+      <libsource lib="OPL_Connector" part="SCREW-TERMINAL-GREEN_2P-5.0_" description=""/>
+      <property name="SKU" value="320110031"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15cd7be4-de04-4a9c-a8f3-54a4c5d16969</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>SCREW-TERMINAL-GREEN_2P-5.0_</value>
+      <footprint>OPL_Connector:H2-5.0-10.5X8.0MM</footprint>
+      <fields>
+        <field name="SKU">320110031</field>
+      </fields>
+      <libsource lib="OPL_Connector" part="SCREW-TERMINAL-GREEN_2P-5.0_" description=""/>
+      <property name="SKU" value="320110031"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68914479-c62f-455c-8743-33f8ff0b42a0</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>SCREW-TERMINAL-GREEN_2P-5.0_</value>
+      <footprint>OPL_Connector:H2-5.0-10.5X8.0MM</footprint>
+      <fields>
+        <field name="SKU">320110031</field>
+      </fields>
+      <libsource lib="OPL_Connector" part="SCREW-TERMINAL-GREEN_2P-5.0_" description=""/>
+      <property name="SKU" value="320110031"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55839980-26a1-462e-aa91-1cba0509b089</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>SCREW-TERMINAL-GREEN_2P-5.0_</value>
+      <footprint>OPL_Connector:H2-5.0-10.5X8.0MM</footprint>
+      <fields>
+        <field name="SKU">320110031</field>
+      </fields>
+      <libsource lib="OPL_Connector" part="SCREW-TERMINAL-GREEN_2P-5.0_" description=""/>
+      <property name="SKU" value="320110031"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f7af7a4-9a3a-4bf7-91f2-a5d49f2d9c93</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>DIP-BLACK-MALE-HEADER-VERT_2P-2.54_</value>
+      <footprint>OPL_Connector:H2-2.54</footprint>
+      <fields>
+        <field name="MPN">P125-1102A0BS116A1</field>
+        <field name="SKU">320020016</field>
+      </fields>
+      <libsource lib="OPL_Connector" part="DIP-BLACK-MALE-HEADER-VERT_2P-2.54_" description=""/>
+      <property name="MPN" value="P125-1102A0BS116A1"/>
+      <property name="SKU" value="320020016"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33cf7456-ffb8-4726-8ba2-3b4966abd5c2</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>DIP-BLACK-MALE-HEADER-VERT_4P-2.54_</value>
+      <footprint>OPL_Connector:H4-2.54</footprint>
+      <fields>
+        <field name="MPN">P125-1104A0BS116A1</field>
+        <field name="SKU">320020017</field>
+      </fields>
+      <libsource lib="OPL_Connector" part="DIP-BLACK-MALE-HEADER-VERT_4P-2.54_" description=""/>
+      <property name="MPN" value="P125-1104A0BS116A1"/>
+      <property name="SKU" value="320020017"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4f1c489-f9b8-4f47-963a-6f1455ded0d9</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>N-Channel_30-V_MOSFET</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <libsource lib="PlantSensorsComponents" part="N-Channel_30-V_MOSFET" description=""/>
+      <property name="MPN" value=""/>
+      <property name="SKU" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2996ddd2-8414-4a24-bb19-2784f9fa5cfd</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>N-Channel_30-V_MOSFET</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <libsource lib="PlantSensorsComponents" part="N-Channel_30-V_MOSFET" description=""/>
+      <property name="MPN" value=""/>
+      <property name="SKU" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48ce0e2a-5d1c-4b9e-a1dc-0ec8ffab59ca</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>N-Channel_30-V_MOSFET</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <libsource lib="PlantSensorsComponents" part="N-Channel_30-V_MOSFET" description=""/>
+      <property name="MPN" value=""/>
+      <property name="SKU" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb512145-5d12-4e3d-8c09-220b2f66daa9</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>N-Channel_30-V_MOSFET</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <libsource lib="PlantSensorsComponents" part="N-Channel_30-V_MOSFET" description=""/>
+      <property name="MPN" value=""/>
+      <property name="SKU" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02cf918c-afc3-4c7a-a87b-bff63a1e24a0</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1495cf02-6d4c-4bd3-b5a9-8a5cba0f6975</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>722c51ea-576e-4cad-8bb8-3ea1265a60f3</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2e3be15-ede1-4026-84c1-4e22811d1263</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53cf641a-87ad-4815-83f3-cdb641abda37</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>deed3749-fe8c-4f00-a862-b799bfd1f606</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fd4b99c-e6c7-415d-9c27-98739bad1562</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b4486be-60a7-4ee2-8bf6-0c8a4404cc2e</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf4c9197-1709-4852-b5d6-76ff56cc8a9e</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00bc57bf-8d06-4b65-a8dd-c5edcb1afa7f</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23f26f02-66a1-41e0-8302-2e4212ff2c23</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83b753ed-4f42-4d81-9725-2973e2009947</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdf31be1-fd4b-4fe7-9ae0-f425d11147ff</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>453de2c6-0d0d-44d1-9ac9-25fc5753b504</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Reed</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Switch" part="SW_Reed" description="reed switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c604377-f3ca-423f-97b2-c2a8ccfb318f</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Reed</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Switch" part="SW_Reed" description="reed switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f20ab662-e1d9-49a1-ad9d-be4edba31696</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>BuckConverter</value>
+      <footprint>PlantSensor:Buck</footprint>
+      <libsource lib="PlantSensorsComponents" part="BuckConverter" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df7c0c19-d681-4274-8122-6f312ef0bae5</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MIC5219-3.3YM5</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="MIC5219-3.3YM5" description="500mA low dropout linear regulator, fixed 3.3V output, SOT-23-5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f25b97c-2e60-45a1-af1f-a0bee60b592a</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>ESP32-WROOM-32</value>
+      <footprint>RF_Module:ESP32-WROOM-32</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</datasheet>
+      <libsource lib="RF_Module" part="ESP32-WROOM-32" description="RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>196a8dd5-5fd6-4c7f-ae4a-0104bd82e61b</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>XL1278-SMT</value>
+      <footprint>Misc RF:XL1278-SMT</footprint>
+      <libsource lib="Misc RF" part="XL1278-SMT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e64e23c-ceab-4c33-8ecd-2869265ed6a2</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>I2C_Display</value>
+      <footprint>PlantSensor:Display</footprint>
+      <libsource lib="PlantSensorsComponents" part="I2C_Display" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ac6f97a-dc9b-4383-b66a-35361ca1c924</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>BMP280Module</value>
+      <footprint>PlantSensor:BMP280Module</footprint>
+      <libsource lib="PlantSensorsComponents" part="BMP280Module" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b70b9ed-aa47-4785-b293-e16b33ca790a</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>GY-302_BH1750</value>
+      <footprint>PlantSensor:BH1750</footprint>
+      <libsource lib="PlantSensorsComponents" part="GY-302_BH1750" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10d28d22-9274-4814-ac06-179262299930</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>GPS_NEO-M8N_module</value>
+      <footprint>PlantSensor:GPS</footprint>
+      <libsource lib="PlantSensorsComponents" part="GPS_NEO-M8N_module" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4482fe78-972e-46b1-b57c-3ad17535122f</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>SPH0645Module</value>
+      <footprint>PlantSensor:MicrophoneSPH0645</footprint>
+      <libsource lib="PlantSensorsComponents" part="SPH0645Module" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfee7a17-eea7-474b-907d-c35b5fa53271</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>Capacitive_Soil_Moisture</value>
+      <footprint>OPL_Connector:H3-2.54</footprint>
+      <libsource lib="PlantSensorsComponents" part="Capacitive_Soil_Moisture" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6462ef4-86c9-4443-b054-a18d22d388e2</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>TEM-HUM-DHT11_4P-15.5X12.0MM_</value>
+      <footprint>OPL_Sensor-Transducer:SNR4-2.54-15.5X12.0X5.5MM</footprint>
+      <fields>
+        <field name="MPN">DHT11</field>
+        <field name="SKU">314010000</field>
+      </fields>
+      <libsource lib="OPL_Sensor-Transducer" part="TEM-HUM-DHT11_4P-15.5X12.0MM_" description=""/>
+      <property name="MPN" value="DHT11"/>
+      <property name="SKU" value="314010000"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlantSensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da483c13-eda0-497e-88ee-88bb087d4f3a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="Buzzer">
+      <description>Buzzer, polarized</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Buzzer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">BZ</field>
+        <field name="Value">Buzzer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-" type="passive"/>
+        <pin num="2" name="+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Misc RF" part="XL1278-SMT">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XL1278-SMT</field>
+        <field name="Footprint">Misc RF:XL1278-SMT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="DIO1" type="bidirectional"/>
+        <pin num="3" name="DIO2" type="bidirectional"/>
+        <pin num="4" name="DIO3" type="bidirectional"/>
+        <pin num="5" name="VCC" type="power_in"/>
+        <pin num="6" name="MISO" type="tri_state"/>
+        <pin num="7" name="MOSI" type="input"/>
+        <pin num="8" name="SCK" type="input"/>
+        <pin num="9" name="NSS" type="input"/>
+        <pin num="10" name="DIO0" type="bidirectional"/>
+        <pin num="11" name="REST" type="input"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="DIO4" type="bidirectional"/>
+        <pin num="14" name="DIO5" type="bidirectional"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="ANT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Connector" part="DIP-BLACK-MALE-HEADER-VERT_2P-2.54_">
+      <footprints>
+        <fp>*H2-2.54*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">DIP-BLACK-MALE-HEADER-VERT_2P-2.54_</field>
+        <field name="MPN">P125-1102A0BS116A1</field>
+        <field name="SKU">320020016</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Connector" part="DIP-BLACK-MALE-HEADER-VERT_4P-2.54_">
+      <footprints>
+        <fp>*H4-2.54*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">DIP-BLACK-MALE-HEADER-VERT_4P-2.54_</field>
+        <field name="MPN">P125-1104A0BS116A1</field>
+        <field name="SKU">320020017</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P$1" type="bidirectional"/>
+        <pin num="2" name="P$2" type="bidirectional"/>
+        <pin num="3" name="P$3" type="bidirectional"/>
+        <pin num="4" name="P$4" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Connector" part="SCREW-TERMINAL-GREEN_2P-5.0_">
+      <footprints>
+        <fp>*H2-5.0-10.5X8.0MM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SCREW-TERMINAL-GREEN_2P-5.0_</field>
+        <field name="SKU">320110031</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Sensor-Transducer" part="TEM-HUM-DHT11_4P-15.5X12.0MM_">
+      <footprints>
+        <fp>*SNR4-2.54-15.5X12.0X5.5MM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U11</field>
+        <field name="Value">TEM-HUM-DHT11_4P-15.5X12.0MM_</field>
+        <field name="Footprint">OPL_Sensor-Transducer:SNR4-2.54-15.5X12.0X5.5MM</field>
+        <field name="MPN">DHT11</field>
+        <field name="SKU">314010000</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DATA" type="bidirectional"/>
+        <pin num="3" name="NC" type="no_connect"/>
+        <pin num="4" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="PlantSensorsComponents" part="BMP280Module">
+      <fields>
+        <field name="Reference">U6</field>
+        <field name="Value">BMP280Module</field>
+        <field name="Footprint">OPL_Connector:H4-2.54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="SCL" type="bidirectional"/>
+        <pin num="4" name="SDA" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="PlantSensorsComponents" part="BuckConverter">
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">BuckConverter</field>
+        <field name="Footprint">PlantSensor:Buck</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC_OUT" type="power_out"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="VCC_IN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="PlantSensorsComponents" part="Capacitive_Soil_Moisture">
+      <fields>
+        <field name="Reference">U10</field>
+        <field name="Value">Capacitive_Soil_Moisture</field>
+        <field name="Footprint">OPL_Connector:H3-2.54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AOUT" type="output"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="PlantSensorsComponents" part="GPS_NEO-M8N_module">
+      <fields>
+        <field name="Reference">U8</field>
+        <field name="Value">GPS_NEO-M8N_module</field>
+        <field name="Footprint">OPL_Connector:H4-2.54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="TX" type="output"/>
+        <pin num="4" name="RX" type="input"/>
+        <pin num="5" name="PPS" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="PlantSensorsComponents" part="GY-302_BH1750">
+      <fields>
+        <field name="Reference">U7</field>
+        <field name="Value">GY-302_BH1750</field>
+        <field name="Footprint">OPL_Connector:H4-2.54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="SCL" type="bidirectional"/>
+        <pin num="4" name="SDA" type="bidirectional"/>
+        <pin num="5" name="ADDR" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PlantSensorsComponents" part="I2C_Display">
+      <fields>
+        <field name="Reference">U5</field>
+        <field name="Value">I2C_Display</field>
+        <field name="Footprint">OPL_Connector:H4-2.54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="SCL" type="bidirectional"/>
+        <pin num="4" name="SDA" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="PlantSensorsComponents" part="N-Channel_30-V_MOSFET">
+      <footprints>
+        <fp>*TO-252*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">N-Channel_30-V_MOSFET</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PlantSensorsComponents" part="SPH0645Module">
+      <fields>
+        <field name="Reference">U9</field>
+        <field name="Value">SPH0645Module</field>
+        <field name="Footprint">OPL_Connector:H6-2.54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="3V3" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="BCLK" type="bidirectional"/>
+        <pin num="4" name="DOUT" type="bidirectional"/>
+        <pin num="5" name="LRCL" type="input"/>
+        <pin num="6" name="SEL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="RF_Module" part="ESP32-WROOM-32">
+      <description>RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</docs>
+      <footprints>
+        <fp>ESP32?WROOM?32*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-WROOM-32</field>
+        <field name="Footprint">RF_Module:ESP32-WROOM-32</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="SENSOR_VP" type="input"/>
+        <pin num="5" name="SENSOR_VN" type="input"/>
+        <pin num="6" name="IO34" type="input"/>
+        <pin num="7" name="IO35" type="input"/>
+        <pin num="8" name="IO32" type="bidirectional"/>
+        <pin num="9" name="IO33" type="bidirectional"/>
+        <pin num="10" name="IO25" type="bidirectional"/>
+        <pin num="11" name="IO26" type="bidirectional"/>
+        <pin num="12" name="IO27" type="bidirectional"/>
+        <pin num="13" name="IO14" type="bidirectional"/>
+        <pin num="14" name="IO12" type="bidirectional"/>
+        <pin num="15" name="GND" type="passive"/>
+        <pin num="16" name="IO13" type="bidirectional"/>
+        <pin num="17" name="SHD/SD2" type="bidirectional"/>
+        <pin num="18" name="SWP/SD3" type="bidirectional"/>
+        <pin num="19" name="SCS/CMD" type="bidirectional"/>
+        <pin num="20" name="SCK/CLK" type="bidirectional"/>
+        <pin num="21" name="SDO/SD0" type="bidirectional"/>
+        <pin num="22" name="SDI/SD1" type="bidirectional"/>
+        <pin num="23" name="IO15" type="bidirectional"/>
+        <pin num="24" name="IO2" type="bidirectional"/>
+        <pin num="25" name="IO0" type="bidirectional"/>
+        <pin num="26" name="IO4" type="bidirectional"/>
+        <pin num="27" name="IO16" type="bidirectional"/>
+        <pin num="28" name="IO17" type="bidirectional"/>
+        <pin num="29" name="IO5" type="bidirectional"/>
+        <pin num="30" name="IO18" type="bidirectional"/>
+        <pin num="31" name="IO19" type="bidirectional"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="IO21" type="bidirectional"/>
+        <pin num="34" name="RXD0/IO3" type="bidirectional"/>
+        <pin num="35" name="TXD0/IO1" type="bidirectional"/>
+        <pin num="36" name="IO22" type="bidirectional"/>
+        <pin num="37" name="IO23" type="bidirectional"/>
+        <pin num="38" name="GND" type="passive"/>
+        <pin num="39" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="MIC5219-3.3YM5">
+      <description>500mA low dropout linear regulator, fixed 3.3V output, SOT-23-5</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MIC5219-3.3YM5</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="BP" type="input"/>
+        <pin num="5" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Reed">
+      <description>reed switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Reed</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols/Device.kicad_sym</uri>
+    </library>
+    <library logical="Misc RF">
+      <uri>/home/nathann/OneDrive/Documents/Projet/electronic/PlantSensor/PlantSensor/Kicad_Library/Misc_RF_Library/symbols/Misc RF.lib</uri>
+    </library>
+    <library logical="OPL_Connector">
+      <uri>/home/nathann/OneDrive/Documents/Projet/electronic/PlantSensor/PlantSensor/Kicad_Library/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Connector.lib</uri>
+    </library>
+    <library logical="OPL_Sensor-Transducer">
+      <uri>/home/nathann/OneDrive/Documents/Projet/electronic/PlantSensor/PlantSensor/Kicad_Library/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Sensor-Transducer.lib</uri>
+    </library>
+    <library logical="PlantSensorsComponents">
+      <uri>/home/nathann/OneDrive/Documents/Projet/electronic/PlantSensor/PlantSensor/Kicad_Library/PlantSensorsComponents.kicad_sym</uri>
+    </library>
+    <library logical="RF_Module">
+      <uri>/usr/share/kicad/symbols/RF_Module.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/usr/share/kicad/symbols/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/symbols/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3VP">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U11" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U5" pin="2" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U8" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U9" pin="1" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="2" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="P$1" pintype="bidirectional"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VCC_OUT" pintype="power_out"/>
+      <node ref="U2" pin="1" pinfunction="IN" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="3" name="+12V">
+      <node ref="BZ1" pin="2" pinfunction="+" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="J4" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VCC_IN" pintype="power_in"/>
+    </net>
+    <net code="4" name="DHT11HUMIDITY_DATA">
+      <node ref="U11" pin="2" pinfunction="DATA" pintype="bidirectional"/>
+      <node ref="U3" pin="26" pinfunction="IO4" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="DISPLAY_SCL">
+      <node ref="U3" pin="7" pinfunction="IO35" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="SCL" pintype="bidirectional"/>
+      <node ref="U6" pin="3" pinfunction="SCL" pintype="bidirectional"/>
+      <node ref="U7" pin="3" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="DISPLAY_SDA">
+      <node ref="U3" pin="6" pinfunction="IO34" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U6" pin="4" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U7" pin="4" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="EXT_PWR_VOLT">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="IO33" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="J5" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="J6" pin="2" pinfunction="P$2" pintype="bidirectional"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U10" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="15" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="38" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="39" pinfunction="GND" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="5" pinfunction="ADDR" pintype="input"/>
+      <node ref="U8" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="6" pinfunction="SEL" pintype="input"/>
+    </net>
+    <net code="9" name="GPS_PPS_CLOCK_REF">
+      <node ref="U3" pin="5" pinfunction="SENSOR_VN" pintype="input"/>
+      <node ref="U8" pin="5" pinfunction="PPS" pintype="output"/>
+    </net>
+    <net code="10" name="LORA_DIO0">
+      <node ref="U3" pin="24" pinfunction="IO2" pintype="bidirectional"/>
+      <node ref="U4" pin="10" pinfunction="DIO0" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="LORA_DIO1">
+      <node ref="U4" pin="2" pinfunction="DIO1" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="LORA_DIO2">
+      <node ref="U4" pin="3" pinfunction="DIO2" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="LORA_DIO3">
+      <node ref="U4" pin="4" pinfunction="DIO3" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="LORA_DIO4">
+      <node ref="U4" pin="13" pinfunction="DIO4" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="LORA_DIO5">
+      <node ref="U4" pin="14" pinfunction="DIO5" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="LORA_MISO">
+      <node ref="U3" pin="31" pinfunction="IO19" pintype="bidirectional"/>
+      <node ref="U4" pin="6" pinfunction="MISO" pintype="tri_state"/>
+    </net>
+    <net code="17" name="LORA_MOSI">
+      <node ref="U3" pin="37" pinfunction="IO23" pintype="bidirectional"/>
+      <node ref="U4" pin="7" pinfunction="MOSI" pintype="input"/>
+    </net>
+    <net code="18" name="LORA_NSS">
+      <node ref="U3" pin="12" pinfunction="IO27" pintype="bidirectional"/>
+      <node ref="U4" pin="9" pinfunction="NSS" pintype="input"/>
+    </net>
+    <net code="19" name="LORA_RST">
+      <node ref="U3" pin="33" pinfunction="IO21" pintype="bidirectional"/>
+      <node ref="U4" pin="11" pinfunction="REST" pintype="input"/>
+    </net>
+    <net code="20" name="LORA_SCK">
+      <node ref="U3" pin="30" pinfunction="IO18" pintype="bidirectional"/>
+      <node ref="U4" pin="8" pinfunction="SCK" pintype="input"/>
+    </net>
+    <net code="21" name="MIC_BCLK">
+      <node ref="U3" pin="11" pinfunction="IO26" pintype="bidirectional"/>
+      <node ref="U9" pin="3" pinfunction="BCLK" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="MIC_DOUT">
+      <node ref="U3" pin="36" pinfunction="IO22" pintype="bidirectional"/>
+      <node ref="U9" pin="4" pinfunction="DOUT" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="MIC_LRCL">
+      <node ref="U3" pin="10" pinfunction="IO25" pintype="bidirectional"/>
+      <node ref="U9" pin="5" pinfunction="LRCL" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(BZ1-Pad1)">
+      <node ref="BZ1" pin="1" pinfunction="-" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(J2-Pad1)">
+      <node ref="J2" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="Q3" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(J5-Pad1)">
+      <node ref="J5" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="U3" pin="25" pinfunction="IO0" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="Net-(J6-Pad3)">
+      <node ref="J6" pin="3" pinfunction="P$3" pintype="bidirectional"/>
+      <node ref="U3" pin="34" pinfunction="RXD0/IO3" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="Net-(J6-Pad4)">
+      <node ref="J6" pin="4" pinfunction="P$4" pintype="bidirectional"/>
+      <node ref="U3" pin="35" pinfunction="TXD0/IO1" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(U3-Pad27)">
+      <node ref="U3" pin="27" pinfunction="IO16" pintype="bidirectional"/>
+      <node ref="U8" pin="3" pinfunction="TX" pintype="output"/>
+    </net>
+    <net code="37" name="Net-(U3-Pad28)">
+      <node ref="U3" pin="28" pinfunction="IO17" pintype="bidirectional"/>
+      <node ref="U8" pin="4" pinfunction="RX" pintype="input"/>
+    </net>
+    <net code="38" name="PWR_CMD_BUZZER">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U3" pin="23" pinfunction="IO15" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="PWR_CMD_LED1">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="IO12" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="PWR_CMD_LED2">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="IO13" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="PWR_CMD_PUMP">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="IO14" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="PWR_CMD_SENSOR">
+      <node ref="U2" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="U3" pin="29" pinfunction="IO5" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="SOIL_AOUT">
+      <node ref="U10" pin="1" pinfunction="AOUT" pintype="output"/>
+      <node ref="U3" pin="8" pinfunction="IO32" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="SWITCH_SIG">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="SENSOR_VP" pintype="input"/>
+    </net>
+    <net code="45" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="BP" pintype="input+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U3-Pad17)">
+      <node ref="U3" pin="17" pinfunction="SHD/SD2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U3-Pad18)">
+      <node ref="U3" pin="18" pinfunction="SWP/SD3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U3-Pad19)">
+      <node ref="U3" pin="19" pinfunction="SCS/CMD" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U3-Pad20)">
+      <node ref="U3" pin="20" pinfunction="SCK/CLK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U3-Pad21)">
+      <node ref="U3" pin="21" pinfunction="SDO/SD0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U3-Pad22)">
+      <node ref="U3" pin="22" pinfunction="SDI/SD1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U3-Pad32)">
+      <node ref="U3" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U4-Pad16)">
+      <node ref="U4" pin="16" pinfunction="ANT" pintype="passive+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U11-Pad3)">
+      <node ref="U11" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
