@@ -32,3 +32,6 @@ BOM (20-30 CHF per unit, aliexpress as sole suplier)
 ## futur works
 - assemble and test the PCB once its manufactured
 - write code to use it
+- fix 12V trace that is too thin
+- add snubber circuit on the mosfet (or ZFS diode)
+- check current of the buck converter in low power mode
