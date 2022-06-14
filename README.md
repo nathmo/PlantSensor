@@ -35,3 +35,25 @@ BOM (20-30 CHF per unit, aliexpress as sole suplier)
 - fix 12V trace that is too thin
 - add snubber circuit on the mosfet (or ZFS diode)
 - check current of the buck converter in low power mode
+
+## firmware 
+whenever the CPU come out of the sleep mode one of the following action should be performed :
+
+mode 1)
+read the config
+read the sensors specified in the config
+take the decision to turn on or off the mosfet if the condition set in the config are set
+take the decision to display the data as specified in the config
+send the data to a server if set in the config
+retreive config update from the server if any and update own config or pass it to the next node
+
+mode 2)
+just transmit to any exit node the data passed uppon
+applie the insctruction if we are the destination node
+
+comming out of sleep mode are set in the config
+- button action
+- timer
+- LoRa event
+
+which system they trigger should also be specified in the config
