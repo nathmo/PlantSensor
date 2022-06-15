@@ -11,7 +11,7 @@ it is low power (when en deepsleep) (current draw under 50 uA@3V7 and even less 
 - lux meter
 - pressure sensor
 - microhone (detect noise level + weather / rain / wind ?)
-- 3 mosftet outpout, each up to 2A. 24W @12V (need to make a thicker trace)
+- 3 mosftet output, max 6A total accross 3 mosfet at any time
 - low power features, turn off every peripheral except ESP32 that can deepsleep and LoRa
 - LoRa (433Mhz) (not compatible with TTN :( 868 Mhz is too expensive) , wifi and bluetooth connectivity
 - buzzer to locate the sensors (and maybe repell some animal ?)
@@ -27,13 +27,11 @@ the PCB is 70 mm * 70 mm, i will add a better fixation system (mouting hole + so
 
 ## content
 kicad schematic
-BOM (20-30 CHF per unit, aliexpress as sole suplier)
+BOM (20-30 CHF per unit, aliexpress as sole suplier (except PCB itself)
 
 ## futur works
 - assemble and test the PCB once its manufactured
 - write code to use it
-- fix 12V trace that is too thin
-- add snubber circuit on the mosfet (or ZFS diode)
 - check current of the buck converter in low power mode
 
 ## firmware 
