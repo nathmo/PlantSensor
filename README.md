@@ -23,7 +23,7 @@ it is low power (when en deepsleep) (current draw under 50 uA@3V7 and even less 
 
 the PCB is 70 mm * 70 mm, i will add a better fixation system (mouting hole + some space for fixation bracket)
 
-![image](https://user-images.githubusercontent.com/15912256/173457909-618eddaf-73d9-41d9-a81c-17c46abfab27.png)
+![image](https://user-images.githubusercontent.com/15912256/173710470-190e3228-3d07-4be2-9e39-55b368796fda.png)
 
 ## content
 kicad schematic
