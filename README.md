@@ -19,15 +19,14 @@ it is low power (when en deepsleep) (current draw under 50 uA@3V7 and even less 
 - local data display on OLED screen or remote via the LoRa
 - input voltage monitoring, get an idea of the battery left if powered by one
 
-![image](https://user-images.githubusercontent.com/15912256/173457969-1ef0dad0-d3d3-4e9f-94d5-d504dadfc579.png)
+![PCBB](https://user-images.githubusercontent.com/15912256/174489208-088df8cd-69f2-4267-9de7-8976912bf420.png)
+![PCBA](https://user-images.githubusercontent.com/15912256/174489211-a9153713-dd13-4e30-a2ef-486b32c71e5a.png)
 
-the PCB is 70 mm * 70 mm, i will add a better fixation system (mouting hole + some space for fixation bracket)
-
-![image](https://user-images.githubusercontent.com/15912256/173710470-190e3228-3d07-4be2-9e39-55b368796fda.png)
+the PCB is 70 mm * 70 mm, i will add a better fixation system
 
 ## content
 kicad schematic
-BOM (20-30 CHF per unit, aliexpress as sole suplier (except PCB itself)
+BOM (20-40 CHF per unit, aliexpress as sole suplier (except PCB itself)
 
 ## futur works
 - assemble and test the PCB once its manufactured
