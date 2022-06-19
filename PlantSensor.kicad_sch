@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "PlantSensor")
+    (date "2022-06-19")
+    (rev "3")
+    (company "Aperture Science")
+    (comment 1 "Author : Nathann Morand")
+  )
+
   (lib_symbols
     (symbol "Device:Buzzer" (pin_names (offset 0.0254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "BZ" (id 0) (at 3.81 1.27 0)

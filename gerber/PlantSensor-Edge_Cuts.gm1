@@ -1,0 +1,26 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,6.0.2+dfsg-1*%
+%TF.CreationDate,2022-06-19T17:26:26+02:00*%
+%TF.ProjectId,PlantSensor,506c616e-7453-4656-9e73-6f722e6b6963,3*%
+%TF.SameCoordinates,PX5f5e100PY623a7c0*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 6.0.2+dfsg-1) date 2022-06-19 17:26:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X0Y70000000D02*
+X70000000Y70000000D01*
+X70000000Y70000000D02*
+X70000000Y0D01*
+X70000000Y0D02*
+X0Y0D01*
+X0Y0D02*
+X0Y70000000D01*
+M02*
